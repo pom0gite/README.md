@@ -1,1 +1,2 @@
 Initial commit
+Initial project setup for Base mini project
