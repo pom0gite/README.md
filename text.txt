@@ -1,2 +1,3 @@
 Initial commit
 Initial project setup for Base mini project
+Add basic project description
