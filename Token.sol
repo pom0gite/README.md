@@ -11,3 +11,4 @@ contract Token {
     // TODO: implement balances
     // TODO: add transfer function
 }
+// add mint function
