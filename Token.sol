@@ -13,3 +13,4 @@ contract Token {
 }
 // add mint function
 // restrict mint to owner
+// add burn logic
