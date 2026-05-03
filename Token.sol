@@ -12,3 +12,4 @@ contract Token {
     // TODO: add transfer function
 }
 // add mint function
+// restrict mint to owner
