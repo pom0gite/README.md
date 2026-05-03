@@ -10,3 +10,4 @@ contract NFT {
     // TODO: implement mint NFT
     // TODO: add token URI
 }
+// add metadata support
