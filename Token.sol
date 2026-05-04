@@ -15,3 +15,4 @@ contract Token {
 // restrict mint to owner
 // add burn logic
 // improve token economics
+// fix supply logic
