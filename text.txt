@@ -9,4 +9,6 @@ Add faucet feature concept
 Add voting system idea
 Add staking feature outline
 Improve project overview section
-
+++
+Add roadmap draft
+Update roadmap with phase 1
