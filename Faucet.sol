@@ -10,3 +10,4 @@ contract Faucet {
     // TODO: add cooldown between claims
 
 }
+// add daily limit
