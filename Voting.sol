@@ -10,3 +10,4 @@ contract Voting {
     // TODO: count votes
 
 }
+// prevent double voting
