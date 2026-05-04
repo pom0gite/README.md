@@ -12,4 +12,4 @@ contract NFT {
 }
 // add metadata support
 // improve mint logic
-
+// restrict access
