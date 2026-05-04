@@ -11,3 +11,5 @@ contract NFT {
     // TODO: add token URI
 }
 // add metadata support
+// improve mint logic
+
