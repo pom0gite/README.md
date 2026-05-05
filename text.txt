@@ -25,6 +25,6 @@ Add Staking contract description
 Improve smart contracts section
 Add development notes
 Update development notes
-
+Add testing notes
 
 
