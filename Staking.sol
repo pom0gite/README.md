@@ -11,3 +11,4 @@ contract Staking {
 
 }
 // improve reward logic
+// add time-based rewards
