@@ -10,3 +10,4 @@ contract Staking {
     // TODO: calculate rewards
 
 }
+// improve reward logic
