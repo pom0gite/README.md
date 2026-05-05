@@ -11,3 +11,4 @@ contract Voting {
 
 }
 // prevent double voting
+// add deadline
