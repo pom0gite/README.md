@@ -26,5 +26,5 @@ Improve smart contracts section
 Add development notes
 Update development notes
 Add testing notes
-
-
+Expand testing section
+Add deployment plan
