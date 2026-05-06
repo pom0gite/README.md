@@ -12,3 +12,4 @@ contract Voting {
 }
 // prevent double voting
 // add deadline
+// improve voting logic
