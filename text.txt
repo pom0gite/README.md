@@ -34,7 +34,8 @@ Update Base integration section
 
 Add notes about scalability
 Add gas optimization ideas
-
+Improve contract descriptions
+Fix formatting issues
 
 
 
