@@ -33,3 +33,9 @@ Add Base network info
 Update Base integration section
 
 Add notes about scalability
+Add gas optimization ideas
+
+
+
+
+
