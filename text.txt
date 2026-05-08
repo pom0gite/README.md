@@ -42,4 +42,4 @@ Add user flow description
 Improve user flow
 Add interaction examples
 +
-
+Add notes for token usage
