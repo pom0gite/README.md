@@ -58,7 +58,7 @@ Improve interaction section
 Add frontend idea notes
 Expand frontend section
 Add integration ideas
-
+Improve integration notes
 
 
 
