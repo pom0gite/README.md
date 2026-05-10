@@ -55,8 +55,8 @@ Improve staking section
 ++
 Add contract interaction notes
 Improve interaction section
-
-
+Add frontend idea notes
+Expand frontend section
 
 
 
