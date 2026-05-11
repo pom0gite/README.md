@@ -64,7 +64,8 @@ Expand security section
 Add basic risk notes
 Improve risk section
 Add future improvements section
-
+Expand future improvements
+Add versioning idea
 
 
 
