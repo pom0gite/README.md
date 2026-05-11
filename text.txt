@@ -69,7 +69,7 @@ Add versioning idea
 Improve versioning notes
 Add upgrade plan
 Expand upgrade section
-
+Add contract lifecycle notes
 
 
 
