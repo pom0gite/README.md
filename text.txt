@@ -71,6 +71,7 @@ Add upgrade plan
 Expand upgrade section
 Add contract lifecycle notes
 Improve lifecycle description
+Add testing improvements
 
 
 
